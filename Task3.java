@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+//https://leetcode.com/problems/two-sum/
 public class Task {
   public static int[] twoSum(int[] nums, int target) {
 
